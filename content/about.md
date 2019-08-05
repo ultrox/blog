@@ -21,6 +21,7 @@ things here and there. I'm self-though junky.
 - Devops & automation
 - Unix & Vim
 - Math
+- etc.
 
 ### Other people though me
 - Tango
