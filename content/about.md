@@ -1,23 +1,27 @@
 ---
 title: About
-date: 2019-07-09
 menu:
   main:
     weight: 2
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
+I'm Marko, some guy from internet. I'm very interested (passionate if you
+will), about how to hack myself to do stuff I'm interested. Sometimes I'm
+successful, but sometimes not so much. I tend to procrastinate, start stuff I
+don't finish, and struggle with consistency.
 
-## How to use?
+Struggle is real, but  over the years I figure out what works for me and learn few
+things here and there. I'm self-though junky.
 
-### Managing content with [Forestry](https://forestry.io)
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+## I though multiple hard things:
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog&engine=hugo)
+- English & German
+- Several programing languages
+- Devops & automation
+- Unix & Vim
+- Math
+- etc.
 
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
-
+### Other people though me
+- Tango
